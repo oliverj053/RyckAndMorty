@@ -1,0 +1,12 @@
+a{
+    color: snow;
+    text-decoration: auto;
+}
+.list-group-item{
+    background-color: #212529!important;
+    color: white;
+    border: none;
+}
+.header{
+    height: 65px!important;
+}
